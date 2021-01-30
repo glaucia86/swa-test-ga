@@ -1,5 +1,5 @@
 {
-    "staticWebApps.appSubpath": "dist",
+    "staticWebApps.appSubpath": "vue-app",
     "staticWebApps.apiSubpath": "",
     "staticWebApps.outputSubpath": "dist"
 }

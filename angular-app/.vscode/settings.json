@@ -1,0 +1,5 @@
+{
+    "staticWebApps.appSubpath": "angular-app",
+    "staticWebApps.apiSubpath": "",
+    "staticWebApps.outputSubpath": "build"
+}
